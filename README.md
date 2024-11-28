@@ -23,6 +23,7 @@ docker-compose -v
    docker-compose up --build -d
    docker-compose exec app php artisan migrate
    npm install
+   npm run dev
 ```
 
 - Fluxo de Integração: Formulário com ChatGPT API
