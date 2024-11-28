@@ -16,6 +16,15 @@ docker -v
 docker-compose -v
 ```
 
+## Setup do Projeto
+```bash
+   cd trabalhofinal
+   cp .env.example .env
+   docker-compose up --build -d
+   docker-compose exec app php artisan migrate
+   npm install
+```
+
 - Fluxo de Integração: Formulário com ChatGPT API
 - Diagrama do fluxo de dados entre o formulário e a API do ChatGPT para recomendação de processador:
 ```mermaid
