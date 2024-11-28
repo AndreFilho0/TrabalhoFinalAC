@@ -1,5 +1,21 @@
 ### TrabalhoFinalAC
 
+## Pré-requisitos
+
+Para rodar esta aplicação na sua máquina, você precisará ter instalados os seguintes softwares:
+
+- [Node.js](https://nodejs.org) (versão LTS recomendada ^18.0)
+- [Docker](https://www.docker.com/)
+- [Docker Compose](https://docs.docker.com/compose/install/)
+
+Verifique se todas as dependências estão instaladas executando os seguintes comandos:
+
+```bash
+node -v
+docker -v
+docker-compose -v
+```
+
 - Fluxo de Integração: Formulário com ChatGPT API
 - Diagrama do fluxo de dados entre o formulário e a API do ChatGPT para recomendação de processador:
 ```mermaid
