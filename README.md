@@ -25,6 +25,7 @@ docker-compose -v
    npm install
    npm run dev
 ```
+## acessar o projeto: http://localhost:8001/ , pode user agora  
 
 - Fluxo de Integração: Formulário com ChatGPT API
 - Diagrama do fluxo de dados entre o formulário e a API do ChatGPT para recomendação de processador:
