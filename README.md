@@ -1,5 +1,8 @@
 ### TrabalhoFinalAC
 
+## Link importante
+-  [Vídeo do trabalho no youtube](https://www.youtube.com/watch?v=kEP-shAJs0o)
+
 ## Pré-requisitos
 
 Para rodar esta aplicação na sua máquina, você precisará ter instalados os seguintes softwares:
